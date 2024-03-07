@@ -1,0 +1,20 @@
+{
+  "name": "learning-npm",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "learning abt npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arinjay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "inquirer": "^9.2.13",
+    "nodemon": "^3.0.3",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0"
+  },
+  "keywords": []
+}
